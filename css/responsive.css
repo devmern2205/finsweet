@@ -1,0 +1,181 @@
+
+    /* banner part start */
+    #banner {
+        padding: 170px 0 70px 0;
+    }
+    .banner_main .banner_left button a {
+        padding: 10px 30px;
+    }
+    .banner_right img{
+        width: 100%;
+    }
+    /* banner part end */
+
+
+
+
+    /* work part start */
+    #work {
+        padding: 60px 0;
+    }
+    /* work part end */
+
+
+
+
+
+
+
+
+    /* project part start */
+    .img_hover {
+        padding: 130px 0 0px 30px;
+    }
+    .project_right .img_one .img_inf {
+        padding: 50px 50px 45px 45px;
+    }
+    /* project part end */
+
+
+
+
+
+
+
+    /* solved part start  */
+    .solved_heading h2 {
+        font-size: 30px;
+    }
+    .solved_item {
+        padding: 20px 20px;
+    }
+    .solved_item h3 {
+        font-size: 20px;
+    }
+    /* solved part end */
+
+
+
+
+
+
+
+
+    /* client part start */
+    .client_left h2 {
+        font-size: 32px;
+    }
+    .client_right p {
+        font-size: 25px;
+    }
+    /* client part end */
+
+
+
+
+
+
+
+    /* question part start */
+    #question {
+        padding: 50px 0;
+    }
+    .question_main .question_left h3 {
+        font-size: 30px;
+        padding-right: 0px;
+    }
+    .question_text {
+        padding: 10px 0;
+        gap: 20px;
+    }
+    /* question part end */
+
+
+
+
+
+
+
+
+
+    /* form part start */
+    .overlay {
+        padding: 50px 40px;
+    }
+    .form_right {
+        padding: 50px 0px 5px 40px;
+    }
+    .form_right p {
+        padding: 15px 0;
+    }
+    .form_right input {
+        padding: 10px;
+        width: 90%;
+    }
+    .form_btn button {
+        width: 50%;
+    }
+    /* form part end */
+
+
+    /* blog part start  */
+    #blog {
+        padding: 60px 0;
+    }
+    .blog_item img {
+        margin-bottom: 10px;
+        width: 100%;
+    }
+    .blog_item h6 {
+        font-size: 20px;
+        padding: 10px 0;
+    }
+    .blog_item p {
+        padding-right: 30px;
+        font-size: 14px;
+    }
+    /* blog part end */
+
+
+
+
+
+
+
+    /* footer part start  */
+    #footer {
+        padding: 40px 0 0 0;
+    }
+    .footer_contact {
+        margin-top: 60px;
+    }
+    /* footer part end */
+@media (min-width:993px) and (max-width:1200.98px) {
+    .banner_right img{
+        width: 100%;
+    }
+    .solved_item h3 {
+        font-size: 20px;
+    }
+    .client_left h2 {
+        font-size: 40px;
+    }
+    .question_main .question_left h3 {
+        padding-right: 0px;
+    }
+    .overlay {
+        padding: 60px 60px;
+    }
+    .form_right {
+        padding: 60px 40px 0px 60px;
+    }
+    .blog_item img {
+        width: 100%;
+    }
+    
+}
+@media (min-width:1201) {
+    .banner_right img{
+        width: 100%;
+    }
+}
